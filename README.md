@@ -1,2 +1,2 @@
 # Khis-World
-First deployed site 
+Just a dope site I created about myself 
