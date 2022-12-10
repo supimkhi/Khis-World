@@ -1,0 +1,25 @@
+.container{
+    background-color: red;
+    
+}
+/* body{
+    background-color: black;
+} */
+.mybox{
+    background-color: dodgerblue;
+    /* min-height: 250px; */
+    margin: 20px 10px;
+}
+.mybox p{
+    text-align: center;
+
+}
+@import url('https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.1/css/bootstrap.min.css');
+html, body {
+  height: 100%
+}
+.btn-outline-danger:hover{
+    background-color: #dcad20(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+}
